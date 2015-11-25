@@ -1,8 +1,11 @@
 @isTest
 public class SampleDeployClass {
-
+//
     public static testmethod void t1() {
-        helloMethod();
+  
+	// my comment hello world
+  
+      helloMethod();
 
         Account acc = new Account(Name= 'fred');
         insert acc; // hit the trigger
