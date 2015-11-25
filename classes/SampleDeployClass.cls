@@ -3,7 +3,7 @@ public class SampleDeployClass {
 //
     public static testmethod void t1() {
   
-	// my comment hello world
+	// my comment hello world 2
   
       helloMethod();
 
